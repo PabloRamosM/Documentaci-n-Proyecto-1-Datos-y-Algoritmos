@@ -13,5 +13,13 @@
 
 ## I Semestre 2021
 
-## Descripción del problema  
+## Descripción del problema
+Space Invaders es un juego en el que el jugador puede controlar una nave que se mueve horizontalmente en la parte
+inferior de la pantalla con el fin de eliminar a todos los invasores. Los invasores son hileras de enemigos
+que se mueven a través de la pantalla, 
+los invasores se tienen que implementar mediante 
+estructuras de datos lineales como las 
+listas enlazadas, listas doblemente enlazadas y listas circulares. Además jugador deberá mover la nave para eliminarlos y evitar que lleguen hacia la parte inferior de la pantalla.
+
+
     
