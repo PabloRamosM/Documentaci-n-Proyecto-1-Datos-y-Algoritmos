@@ -23,5 +23,10 @@ listas enlazadas, listas doblemente enlazadas y listas circulares, además cada 
 
 Por otra parte, el jugador deberá mover la nave para eliminarlos y evitar que lleguen hacia la parte inferior de la pantalla.
 
+## Link a Jira
+[Jira](https://pablorm.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=PD1)
+
+## Diseño
+![Diagrama de diseñó](/resoucrces/Diagrama de diseño.jpeg)
 
     
