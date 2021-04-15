@@ -27,6 +27,6 @@ Por otra parte, el jugador deberá mover la nave para eliminarlos y evitar que l
 [Jira](https://pablorm.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=PD1)
 
 ## Diseño
-![Diagrama de diseñó](/resoucrces/Diagrama de diseño.jpeg)
+![Diagrama de diseño](/resoucrces/Diagrama de diseño.jpeg)
 
     
