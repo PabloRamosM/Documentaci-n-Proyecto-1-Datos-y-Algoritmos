@@ -1,12 +1,14 @@
 # Documentación Proyecto Datos 1
 
+## Space Invaders
+
 ## Instituto Tecnológico de Costa Rica
 
 ## Integrantes del grupo:
-* Francisco José Zamora Corrales
-* Jose Pablo Ramos Madrigal 
-* José Pablo Gonzáles Chacón
-* Marco Aguero Barboza
+* Zamora Corrales Francisco José 
+* Ramos Madrigal Jose Pablo  
+* Gonzáles Chacón José Pablo 
+* Aguero Barboza Marco 
 
 ## Profesor
 * Ing. Isaac Ramírez, M.SI.
@@ -25,6 +27,9 @@ Por otra parte, el jugador deberá mover la nave para eliminarlos y evitar que l
 
 ## Link a Jira
 [Jira](https://pablorm.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=PD1)
+
+## Link al Plan de Iteraciones
+[Plan de Iteraciones](https://docs.google.com/document/d/1AgO44ZNWYHJLwgDoszECrtmOwrNa1WSVNUpqpBr4B1E/edit?usp=sharing)
 
 ## Diseño
 ![Diagrama de diseño](/resoucrces/Diagrama de diseño.jpeg)
