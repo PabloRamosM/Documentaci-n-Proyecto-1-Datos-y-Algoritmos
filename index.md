@@ -27,7 +27,7 @@ Por otra parte, el jugador deberá mover la nave para eliminarlos y evitar que l
 
 ## Link a Jira
 [Jira](https://pablorm.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=PD1)
-
+&nbsp;
 [Tablero scrum](https://pablorm.atlassian.net/secure/RapidBoard.jspa?rapidView=4)
 
 ## Diseño
