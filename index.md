@@ -27,9 +27,7 @@ Por otra parte, el jugador deberá mover la nave para eliminarlos y evitar que l
 
 ## Link a Jira
 [Jira](https://pablorm.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=PD1)
-
-## Link al Plan de Iteraciones
-[Plan de Iteraciones](https://docs.google.com/document/d/1AgO44ZNWYHJLwgDoszECrtmOwrNa1WSVNUpqpBr4B1E/edit?usp=sharing)
+[Tablero scrum](https://pablorm.atlassian.net/secure/RapidBoard.jspa?rapidView=4)
 
 ## Diseño
 ![Diagrama de diseño](/resoucrces/Diagrama de diseño.jpeg)
