@@ -6,8 +6,7 @@
 
 ## Integrantes del grupo:
 * Zamora Corrales Francisco José 
-* Ramos Madrigal Jose Pablo  
-* Gonzáles Chacón José Pablo 
+* Ramos Madrigal Jose Pablo
 * Aguero Barboza Marco 
 
 ## Profesor
